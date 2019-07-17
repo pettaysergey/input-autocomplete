@@ -1,0 +1,9 @@
+.list {
+  margin: 10px 0 0 0;
+  padding: 5px;
+}
+
+.list li {
+  cursor: pointer;
+  border: 1px solid red;
+}
